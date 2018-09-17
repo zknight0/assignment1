@@ -2,9 +2,29 @@ html {
     color: fuchsia;
 }
 
+/*
+body {
+    color: blue;
+    background-color: darkorange
+    
+}
+*/
+
+a {
+    color: crimson;
+}
+
 h1 {
         color: green;
+        font-family: "arial";
 }
+
+h2 {
+    font-family: monospace;
+    font font-weight: 500
+}
+
 p {
     color: darkgoldenrod;
+    background-color: antiquewhite
 }
