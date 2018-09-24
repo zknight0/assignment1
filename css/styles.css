@@ -15,8 +15,12 @@ a {
 }
 
 h1 {
-        color: green;
-        font-family: "arial";
+    color: green;
+    font-family: "arial";
+}
+
+.guchi {
+    background-color: aqua
 }
 
 h2 {
@@ -26,5 +30,6 @@ h2 {
 
 p {
     color: darkgoldenrod;
-    background-color: antiquewhite
+    font-size: 12pt;
+    background-color: antiquewhite;
 }
