@@ -28,6 +28,10 @@ h2 {
     font font-weight: 500
 }
 
+#special-paragraph {
+    color: 0000FF;
+}
+
 p {
     color: darkgoldenrod;
     font-size: 12pt;
